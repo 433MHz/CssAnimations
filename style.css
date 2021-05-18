@@ -1,0 +1,13 @@
+.item{
+    height: 10vh;
+    font-size: 2rem;
+    font-weight: bold;
+    text-align: center;
+    background-color: aliceblue;
+    border: solid 1px lightgray;
+}
+
+.grid{
+    display: grid;
+    grid-template-columns: 200px 200px 200px;
+}
